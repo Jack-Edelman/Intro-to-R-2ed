@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for Jack-Edelman 2019
+# Copy for Jack-S-Edelman 2019
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
